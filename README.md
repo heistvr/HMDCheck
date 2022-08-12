@@ -1,6 +1,8 @@
 # HMDCheck
 Determine if a user in VRChat is in VR.
 
+# HOW TO
+
 Drag the HMDCHECK_PREFAB into the scene.
 The prefab contains 4 objects:
 1. VRYES - a teleport location for users in VR.
@@ -16,5 +18,7 @@ uses the button and enable the section which uses a collider check. This require
 
 Use the HMDToggle button to enable or disable the check.
 Select the HMDToggle button and check the inspector script, expand the Admin Users to add allow listed users who can use this button.
+
+# TESTING
 
 When using CyanEmu to test ensure that the allow listed username is entered into the Local Player Name field within CyanEmu Settings.
