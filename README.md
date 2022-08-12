@@ -20,6 +20,9 @@ uses the button and enable the section which uses a collider check. This require
 Use the HMDToggle button to enable or disable the check.
 Select the HMDToggle button and check the inspector script, expand the Admin Users to add allow listed users who can use this button.
 
+In the VRNO teleport location, it is critical that text is provided to the user teleported there explaining why they were teleported there,
+and how they can remedy the situation by enabling their HMD.
+
 # Testing
 
 When using CyanEmu to test ensure that the allow listed username is entered into the Local Player Name field within CyanEmu Settings.
