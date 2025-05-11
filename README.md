@@ -25,4 +25,4 @@ and how they can remedy the situation by enabling their HMD.
 
 # Testing
 
-When using CyanEmu to test ensure that the allow listed username is entered into the Local Player Name field within CyanEmu Settings.
+When testing in scene editor ensure that the whitelisted username is entered into the Local Player Name field within VRChat ClientSim Settings.
