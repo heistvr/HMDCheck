@@ -1,6 +1,6 @@
 # HMD Check
 
-Determine if a user in VRChat is in VR.
+Determine if a user in VRChat is using a Head Mounted Display (HMD).
 
 # How to
 
